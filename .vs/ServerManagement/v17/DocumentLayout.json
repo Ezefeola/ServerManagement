@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Blazor\\ServerManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5073CF7D-83C2-4BA2-9911-B736FAADD475}|ServerManagement\\ServerManagement.csproj|c:\\users\\ezefe\\onedrive\\desktop\\contenedor\\proyectos\\blazor\\servermanagement\\servermanagement\\components\\pages\\servers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5073CF7D-83C2-4BA2-9911-B736FAADD475}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\pages\\servers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5073CF7D-83C2-4BA2-9911-B736FAADD475}|ServerManagement\\ServerManagement.csproj|c:\\users\\ezefe\\onedrive\\desktop\\contenedor\\proyectos\\blazor\\servermanagement\\servermanagement\\components\\shared\\servercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5073CF7D-83C2-4BA2-9911-B736FAADD475}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\shared\\servercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5073CF7D-83C2-4BA2-9911-B736FAADD475}|ServerManagement\\ServerManagement.csproj|c:\\users\\ezefe\\onedrive\\desktop\\contenedor\\proyectos\\blazor\\servermanagement\\servermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5073CF7D-83C2-4BA2-9911-B736FAADD475}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5073CF7D-83C2-4BA2-9911-B736FAADD475}|ServerManagement\\ServerManagement.csproj|c:\\users\\ezefe\\onedrive\\desktop\\contenedor\\proyectos\\blazor\\servermanagement\\servermanagement\\components\\pages\\addserver.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5073CF7D-83C2-4BA2-9911-B736FAADD475}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\pages\\addserver.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Blazor\\ServerManagement\\ServerManagement\\Program.cs",
+              "RelativeDocumentMoniker": "ServerManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Blazor\\ServerManagement\\ServerManagement\\Program.cs",
+              "RelativeToolTip": "ServerManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:24:48.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServerComponent.razor",
+              "DocumentMoniker": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Blazor\\ServerManagement\\ServerManagement\\Components\\Shared\\ServerComponent.razor",
+              "RelativeDocumentMoniker": "ServerManagement\\Components\\Shared\\ServerComponent.razor",
+              "ToolTip": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Blazor\\ServerManagement\\ServerManagement\\Components\\Shared\\ServerComponent.razor",
+              "RelativeToolTip": "ServerManagement\\Components\\Shared\\ServerComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T15:54:17.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Servers.razor",
+              "DocumentMoniker": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Blazor\\ServerManagement\\ServerManagement\\Components\\Pages\\Servers.razor",
+              "RelativeDocumentMoniker": "ServerManagement\\Components\\Pages\\Servers.razor",
+              "ToolTip": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Blazor\\ServerManagement\\ServerManagement\\Components\\Pages\\Servers.razor",
+              "RelativeToolTip": "ServerManagement\\Components\\Pages\\Servers.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T03:03:36.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddServer.razor",
+              "DocumentMoniker": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Blazor\\ServerManagement\\ServerManagement\\Components\\Pages\\AddServer.razor",
+              "RelativeDocumentMoniker": "ServerManagement\\Components\\Pages\\AddServer.razor",
+              "ToolTip": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Blazor\\ServerManagement\\ServerManagement\\Components\\Pages\\AddServer.razor",
+              "RelativeToolTip": "ServerManagement\\Components\\Pages\\AddServer.razor",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T02:56:15.718Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
